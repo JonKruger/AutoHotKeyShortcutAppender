@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoHotKeyShortcutAppender", "AutoHotKeyShortcutAppender\AutoHotKeyShortcutAppender.csproj", "{16D7B215-10C1-4780-9382-AF2622DAAC4A}"
 EndProject
 Global
