@@ -22,9 +22,7 @@ namespace AutoHotKeyShortcutAppender
                 {
                     script = streamReader.ReadToEnd();
                     script += string.Format(@"
-
-:*:{0}::{1}
-", shortcut, output);
+:*:{0}::{1}", shortcut, output);
                 }
             }
 
